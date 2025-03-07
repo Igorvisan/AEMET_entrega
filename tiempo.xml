@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tiempo><estado_cielo descripcion="" periodo="00-24"/><estado_cielo descripcion="" periodo="00-12"/><estado_cielo descripcion="Cubierto con lluvia escasa" periodo="12-24">46</estado_cielo><estado_cielo descripcion="" periodo="00-06"/><estado_cielo descripcion="Muy nuboso con tormenta y lluvia escasa" periodo="06-12">63</estado_cielo><estado_cielo descripcion="Cubierto con lluvia escasa" periodo="12-18">46</estado_cielo><estado_cielo descripcion="Muy nuboso" periodo="18-24">15n</estado_cielo><viento periodo="00-24">
+        <direccion/>
+        <velocidad/>
+      </viento><viento periodo="00-12">
+        <direccion/>
+        <velocidad/>
+      </viento><viento periodo="12-24">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="00-06">
+        <direccion>S</direccion>
+        <velocidad>10</velocidad>
+      </viento><viento periodo="06-12">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="12-18">
+        <direccion>C</direccion>
+        <velocidad>0</velocidad>
+      </viento><viento periodo="18-24">
+        <direccion>S</direccion>
+        <velocidad>15</velocidad>
+      </viento><temperatura>
+        <maxima>16</maxima>
+        <minima>11</minima>
+        <dato hora="06">12</dato>
+        <dato hora="12">13</dato>
+        <dato hora="18">15</dato>
+        <dato hora="24">13</dato>
+      </temperatura><sens_termica>
+        <maxima>16</maxima>
+        <minima>11</minima>
+        <dato hora="06">12</dato>
+        <dato hora="12">13</dato>
+        <dato hora="18">15</dato>
+        <dato hora="24">13</dato>
+      </sens_termica><humedad_relativa>
+        <maxima>70</maxima>
+        <minima>60</minima>
+        <dato hora="06">60</dato>
+        <dato hora="12">65</dato>
+        <dato hora="18">60</dato>
+        <dato hora="24">70</dato>
+      </humedad_relativa><estado_cielo descripcion="Nuboso con lluvia" periodo="00-24">24</estado_cielo><estado_cielo descripcion="Intervalos nubosos con lluvia" periodo="00-12">23</estado_cielo><estado_cielo descripcion="Muy nuboso con lluvia" periodo="12-24">25</estado_cielo><estado_cielo descripcion="Nuboso con lluvia escasa" periodo="00-06">44n</estado_cielo><estado_cielo descripcion="Intervalos nubosos con lluvia escasa" periodo="06-12">43</estado_cielo><estado_cielo descripcion="Muy nuboso" periodo="12-18">15</estado_cielo><estado_cielo descripcion="Muy nuboso con lluvia escasa" periodo="18-24">45n</estado_cielo><viento periodo="00-24">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="00-12">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="12-24">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="00-06">
+        <direccion>S</direccion>
+        <velocidad>15</velocidad>
+      </viento><viento periodo="06-12">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="12-18">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="18-24">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><temperatura>
+        <maxima>16</maxima>
+        <minima>11</minima>
+        <dato hora="06">12</dato>
+        <dato hora="12">14</dato>
+        <dato hora="18">15</dato>
+        <dato hora="24">14</dato>
+      </temperatura><sens_termica>
+        <maxima>16</maxima>
+        <minima>11</minima>
+        <dato hora="06">12</dato>
+        <dato hora="12">14</dato>
+        <dato hora="18">15</dato>
+        <dato hora="24">14</dato>
+      </sens_termica><humedad_relativa>
+        <maxima>80</maxima>
+        <minima>60</minima>
+        <dato hora="06">70</dato>
+        <dato hora="12">70</dato>
+        <dato hora="18">65</dato>
+        <dato hora="24">70</dato>
+      </humedad_relativa><estado_cielo descripcion="Muy nuboso con lluvia" periodo="00-24">25</estado_cielo><estado_cielo descripcion="Muy nuboso con lluvia" periodo="00-12">25</estado_cielo><estado_cielo descripcion="Cubierto con lluvia" periodo="12-24">26</estado_cielo><viento periodo="00-24">
+        <direccion>SE</direccion>
+        <velocidad>30</velocidad>
+      </viento><viento periodo="00-12">
+        <direccion>SE</direccion>
+        <velocidad>30</velocidad>
+      </viento><viento periodo="12-24">
+        <direccion>SE</direccion>
+        <velocidad>30</velocidad>
+      </viento><temperatura>
+        <maxima>17</maxima>
+        <minima>11</minima>
+      </temperatura><sens_termica>
+        <maxima>17</maxima>
+        <minima>11</minima>
+      </sens_termica><humedad_relativa>
+        <maxima>80</maxima>
+        <minima>55</minima>
+      </humedad_relativa><estado_cielo descripcion="Intervalos nubosos con lluvia escasa" periodo="00-24">43</estado_cielo><estado_cielo descripcion="Intervalos nubosos" periodo="00-12">13</estado_cielo><estado_cielo descripcion="Intervalos nubosos con lluvia escasa" periodo="12-24">43</estado_cielo><viento periodo="00-24">
+        <direccion>SO</direccion>
+        <velocidad>15</velocidad>
+      </viento><viento periodo="00-12">
+        <direccion>S</direccion>
+        <velocidad>20</velocidad>
+      </viento><viento periodo="12-24">
+        <direccion>SO</direccion>
+        <velocidad>15</velocidad>
+      </viento><temperatura>
+        <maxima>18</maxima>
+        <minima>8</minima>
+      </temperatura><sens_termica>
+        <maxima>18</maxima>
+        <minima>8</minima>
+      </sens_termica><humedad_relativa>
+        <maxima>70</maxima>
+        <minima>40</minima>
+      </humedad_relativa><estado_cielo descripcion="Nuboso con lluvia escasa">44</estado_cielo><viento>
+        <direccion>S</direccion>
+        <velocidad>15</velocidad>
+      </viento><temperatura>
+        <maxima>16</maxima>
+        <minima>6</minima>
+      </temperatura><sens_termica>
+        <maxima>16</maxima>
+        <minima>6</minima>
+      </sens_termica><humedad_relativa>
+        <maxima>70</maxima>
+        <minima>45</minima>
+      </humedad_relativa><estado_cielo descripcion="Cubierto con lluvia">26</estado_cielo><viento>
+        <direccion>N</direccion>
+        <velocidad>10</velocidad>
+      </viento><temperatura>
+        <maxima>13</maxima>
+        <minima>8</minima>
+      </temperatura><sens_termica>
+        <maxima>13</maxima>
+        <minima>8</minima>
+      </sens_termica><humedad_relativa>
+        <maxima>90</maxima>
+        <minima>50</minima>
+      </humedad_relativa><estado_cielo descripcion="Muy nuboso con lluvia">25</estado_cielo><viento>
+        <direccion>NO</direccion>
+        <velocidad>15</velocidad>
+      </viento><temperatura>
+        <maxima>10</maxima>
+        <minima>3</minima>
+      </temperatura><sens_termica>
+        <maxima>10</maxima>
+        <minima>3</minima>
+      </sens_termica><humedad_relativa>
+        <maxima>75</maxima>
+        <minima>50</minima>
+      </humedad_relativa></tiempo>
